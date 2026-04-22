@@ -1,5 +1,5 @@
 # Spotify_Music_Analysis
-spotify_logo.jpg
+https://github.com/abhibhardwaj07/Spotify_Music_Analysis/blob/ea88f197c277898e83d79a013854624cc9d2acb9/spotify_logo.jpg
 
 # 📌 Project Overview
 
