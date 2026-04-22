@@ -1,5 +1,5 @@
 # Spotify_Music_Analysis
-
+spotify_logo.jpg
 
 # 📌 Project Overview
 
