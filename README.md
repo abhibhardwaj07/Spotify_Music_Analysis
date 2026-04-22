@@ -1,6 +1,4 @@
 # Spotify_Music_Analysis
-![Uploading image.png…]()
-
 
 ## 📌 Project Overview
 
