@@ -1,6 +1,6 @@
 # Spotify_Music_Analysis
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing Spotify music data using SQL to extract meaningful insights about songs, artists, albums, and user trends. The analysis helps in understanding listening patterns, popular tracks, and performance metrics.
 
