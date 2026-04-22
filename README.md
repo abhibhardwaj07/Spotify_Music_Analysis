@@ -1,16 +1,16 @@
 # Spotify_Music_Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on analyzing Spotify music data using SQL to extract meaningful insights about songs, artists, albums, and user trends. The analysis helps in understanding listening patterns, popular genres, and performance metrics.
 
-📊 Objectives
+# 📊 Objectives
 - Analyze top-performing tracks and artists
 - Identify most popular tracks and albums
 - Understand user listening behavior
 - Perform data-driven insights using SQL queries
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 - SQL ( PostgreSQL)
 - Database Management System
 
@@ -37,7 +37,7 @@ This project focuses on analyzing Spotify music data using SQL to extract meanin
 14. Find tracks where the energy-to-liveness ratio is greater than 1.2.
 15. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
 
-🚀 Key Insights
+# 🚀 Key Insights
 - Certain artists dominate streaming platforms consistently
 - Popular tracks attract higher engagement
 - Songs with moderate duration tend to perform better
